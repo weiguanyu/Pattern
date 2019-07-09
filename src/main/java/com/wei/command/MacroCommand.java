@@ -3,6 +3,7 @@ package com.wei.command;
 import java.util.ArrayList;
 
 /**
+ * 宏命令
  * @author 韦官余
  * @date 2019/4/16
  */
